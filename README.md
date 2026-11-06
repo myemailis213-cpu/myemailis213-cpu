@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **myemailis# Hi, I'm Divyanshu Maurya 👋
 
